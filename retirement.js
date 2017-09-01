@@ -1,0 +1,3 @@
+function retire(){}
+
+function main(){}
